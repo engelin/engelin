@@ -25,7 +25,6 @@
 
 ### :woman_technologist: About Me 
 - 🔭 I’m currently working as a Software Engineer, and Development Manager.
-- 🌱 I’m currently learning Block chain and Dapp.
 - 🎓 I studied Electonics and Communications Engineering in Embedded System Lab and Digital Communication Lab. 
 - ⚡ Fun fact: I am interested in new tech skills and I would like to learn everything what I don't know yet. Just try to get knowledge.
 ---
@@ -70,7 +69,5 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engelin&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engelin&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
